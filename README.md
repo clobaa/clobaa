@@ -7,6 +7,7 @@ Nice to meet you, I am Clobaa.
 3. [Getting Started with Erlang](https://github.com/clobaa/erlang-practice): Erlang's official Getting Started guide. 
 
 ### 🚀 Some Tools I Use
+Golang, Kubernetes, Erlang
 <!--- CHECK THIS
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
